@@ -1,2 +1,2 @@
 # Algorithms
-A list of algorithms that I have programmed and learned about through the years.
+A list of algorithms that I have programmed and learned about throughout the years.
